@@ -1,0 +1,13 @@
+C:\BootCamp_2020\ThoughtWork_Test\ToDoItemApi-2020-11-3-6-40-30-108\ToDoItem_Console\bin\Debug\netcoreapp3.1\ToDoItem_Console.exe
+C:\BootCamp_2020\ThoughtWork_Test\ToDoItemApi-2020-11-3-6-40-30-108\ToDoItem_Console\bin\Debug\netcoreapp3.1\ToDoItem_Console.deps.json
+C:\BootCamp_2020\ThoughtWork_Test\ToDoItemApi-2020-11-3-6-40-30-108\ToDoItem_Console\bin\Debug\netcoreapp3.1\ToDoItem_Console.runtimeconfig.json
+C:\BootCamp_2020\ThoughtWork_Test\ToDoItemApi-2020-11-3-6-40-30-108\ToDoItem_Console\bin\Debug\netcoreapp3.1\ToDoItem_Console.runtimeconfig.dev.json
+C:\BootCamp_2020\ThoughtWork_Test\ToDoItemApi-2020-11-3-6-40-30-108\ToDoItem_Console\bin\Debug\netcoreapp3.1\ToDoItem_Console.dll
+C:\BootCamp_2020\ThoughtWork_Test\ToDoItemApi-2020-11-3-6-40-30-108\ToDoItem_Console\bin\Debug\netcoreapp3.1\ToDoItem_Console.pdb
+C:\BootCamp_2020\ThoughtWork_Test\ToDoItemApi-2020-11-3-6-40-30-108\ToDoItem_Console\obj\Debug\netcoreapp3.1\ToDoItem_Console.csprojAssemblyReference.cache
+C:\BootCamp_2020\ThoughtWork_Test\ToDoItemApi-2020-11-3-6-40-30-108\ToDoItem_Console\obj\Debug\netcoreapp3.1\ToDoItem_Console.AssemblyInfoInputs.cache
+C:\BootCamp_2020\ThoughtWork_Test\ToDoItemApi-2020-11-3-6-40-30-108\ToDoItem_Console\obj\Debug\netcoreapp3.1\ToDoItem_Console.AssemblyInfo.cs
+C:\BootCamp_2020\ThoughtWork_Test\ToDoItemApi-2020-11-3-6-40-30-108\ToDoItem_Console\obj\Debug\netcoreapp3.1\ToDoItem_Console.csproj.CoreCompileInputs.cache
+C:\BootCamp_2020\ThoughtWork_Test\ToDoItemApi-2020-11-3-6-40-30-108\ToDoItem_Console\obj\Debug\netcoreapp3.1\ToDoItem_Console.dll
+C:\BootCamp_2020\ThoughtWork_Test\ToDoItemApi-2020-11-3-6-40-30-108\ToDoItem_Console\obj\Debug\netcoreapp3.1\ToDoItem_Console.pdb
+C:\BootCamp_2020\ThoughtWork_Test\ToDoItemApi-2020-11-3-6-40-30-108\ToDoItem_Console\obj\Debug\netcoreapp3.1\ToDoItem_Console.genruntimeconfig.cache
